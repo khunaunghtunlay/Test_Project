@@ -1,0 +1,6 @@
+node_modules/
+view/index.html
+view/about.html
+view/home.html
+view/404.html
+env/
